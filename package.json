@@ -1,15 +1,17 @@
 {
   "name": "van-gogh",
   "displayName": "Van Gogh Theme",
-  "description": "A dark VS Code theme inspired by Van Gogh...",
+  "description": "A dark VS Code theme inspired by Van Gogh Omarchy Theme...",
   "version": "0.0.1",
   "publisher": "kyawzinhtet",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.110.0"
   },
   "categories": [
     "Themes"
   ],
+  "icon": "images/icon.jpg",
   "contributes": {
     "themes": [
       {
@@ -18,5 +20,17 @@
         "path": "./themes/van-gogh-color-theme.json"
       }
     ]
+  },
+  "keywords": [
+    "theme",
+    "dark-theme",
+    "van-gogh",
+    "artistic",
+    "color-theme",
+    "vscode-theme"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kyawzinhtett/Van-Gogh-Theme"
   }
 }
