@@ -1,0 +1,22 @@
+{
+  "name": "van-gogh",
+  "displayName": "Van Gogh Theme",
+  "description": "A dark VS Code theme inspired by Van Gogh...",
+  "version": "0.0.1",
+  "publisher": "kyawzinhtet",
+  "engines": {
+    "vscode": "^1.110.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Van Gogh Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/van-gogh-color-theme.json"
+      }
+    ]
+  }
+}
