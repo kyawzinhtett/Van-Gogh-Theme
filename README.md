@@ -1,11 +1,11 @@
 # Van Gogh Theme
 
-[![Version](https://img.shields.io/visual-studio-marketplace/v/kyawzinhtet.van-gogh-theme)](https://marketplace.visualstudio.com/items?itemName=kyawzinhtet.van-gogh-theme)
-[![Installs](https://img.shields.io/visual-studio-marketplace/i/kyawzinhtet.van-gogh-theme)](https://marketplace.visualstudio.com/items?itemName=kyawzinhtet.van-gogh-theme)
-[![Rating](https://img.shields.io/visual-studio-marketplace/r/kyawzinhtet.van-gogh-theme)](https://marketplace.visualstudio.com/items?itemName=kyawzinhtet.van-gogh-theme)
+[![Version](https://img.shields.io/visual-studio-marketplace/v/kyawzinhtet.van-gogh)](https://marketplace.visualstudio.com/items?itemName=kyawzinhtet.van-gogh)
+[![Installs](https://img.shields.io/visual-studio-marketplace/i/kyawzinhtet.van-gogh)](https://marketplace.visualstudio.com/items?itemName=kyawzinhtet.van-gogh)
+[![Rating](https://img.shields.io/visual-studio-marketplace/r/kyawzinhtet.van-gogh)](https://marketplace.visualstudio.com/items?itemName=kyawzinhtet.van-gogh)
 
-
-A warm, artistic dark theme for **Visual Studio Code**, inspired by the colors of Van Gogh paintings and the Van Gogh Omarchy theme (https://github.com/Nirmal314/omarchy-van-gogh-theme).
+A warm, artistic dark theme for **Visual Studio Code**, inspired by the colors of Van Gogh paintings and the Van Gogh Omarchy theme  
+(https://github.com/Nirmal314/omarchy-van-gogh-theme).
 
 The palette focuses on warm yellows, oranges, and deep blues to create a comfortable coding environment with strong readability.
 
