@@ -2,7 +2,7 @@
   "name": "van-gogh",
   "displayName": "Van Gogh Theme",
   "description": "A dark VS Code theme inspired by Van Gogh Omarchy Theme...",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "kyawzinhtet",
   "license": "MIT",
   "engines": {
