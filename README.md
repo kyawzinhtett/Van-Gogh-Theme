@@ -1,5 +1,6 @@
 # Van Gogh Theme
 
+[![Install](https://img.shields.io/badge/Install-VS%20Code%20Theme-blue?logo=visualstudiocode)](https://marketplace.visualstudio.com/items?itemName=kyawzinhtet.van-gogh)
 [![Version](https://img.shields.io/visual-studio-marketplace/v/kyawzinhtet.van-gogh)](https://marketplace.visualstudio.com/items?itemName=kyawzinhtet.van-gogh)
 [![Installs](https://img.shields.io/visual-studio-marketplace/i/kyawzinhtet.van-gogh)](https://marketplace.visualstudio.com/items?itemName=kyawzinhtet.van-gogh)
 [![Rating](https://img.shields.io/visual-studio-marketplace/r/kyawzinhtet.van-gogh)](https://marketplace.visualstudio.com/items?itemName=kyawzinhtet.van-gogh)
