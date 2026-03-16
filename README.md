@@ -5,14 +5,18 @@
 [![Installs](https://img.shields.io/visual-studio-marketplace/i/kyawzinhtet.van-gogh)](https://marketplace.visualstudio.com/items?itemName=kyawzinhtet.van-gogh)
 [![Rating](https://img.shields.io/visual-studio-marketplace/r/kyawzinhtet.van-gogh)](https://marketplace.visualstudio.com/items?itemName=kyawzinhtet.van-gogh)
 
-A warm, artistic dark theme for **Visual Studio Code**, inspired by the colors of Van Gogh paintings and the Van Gogh Omarchy theme  
-(https://github.com/Nirmal314/omarchy-van-gogh-theme).
+A warm, artistic dark theme for **Visual Studio Code**, inspired by the colors of **Vincent van Gogh's paintings** and the **Omarchy Van Gogh theme**.
 
-The palette focuses on warm yellows, oranges, and deep blues to create a comfortable coding environment with strong readability.
+The palette focuses on warm yellows, oranges, and deep blues to create a comfortable coding environment with strong readability during long development sessions.
+
+Inspired by:  
+https://github.com/Nirmal314/omarchy-van-gogh-theme
 
 ---
 
 ## Preview
+
+Example highlighting in a typical TypeScript project.
 
 ![Van Gogh Theme Preview](images/preview.png)
 
@@ -20,59 +24,77 @@ The palette focuses on warm yellows, oranges, and deep blues to create a comfort
 
 ## Features
 
-* Warm artistic color palette
-* Designed for long coding sessions
-* Clear distinction between variables, functions, and types
-* Comfortable contrast for dark environments
-* Consistent styling across:
+• Warm artistic color palette inspired by Van Gogh paintings  
+• Designed for long coding sessions  
+• Clear distinction between variables, functions, and types  
+• Comfortable contrast for dark environments  
+• Clean UI colors that reduce eye strain  
 
-  * TypeScript
-  * JavaScript
-  * JSON
-  * HTML
-  * CSS
-  * Markdown
-  * Terminal
+Optimized highlighting for:
+
+- TypeScript
+- JavaScript
+- JSON
+- HTML
+- CSS
+- Markdown
+- Terminal
 
 ---
 
 ## Color Palette
 
-| Element              | Color     |
-| -------------------- | --------- |
-| Background           | `#0B1E2D` |
-| Foreground           | `#F4C7A1` |
-| Comments             | `#8AA1B4` |
+| Element | Color |
+|---|---|
+| Background | `#0A192F` |
+| Foreground | `#F2E2A4` |
+| Comments | `#8AA1B4` |
 | Keywords / Functions | `#FF9F1C` |
-| Types / Classes      | `#F4A261` |
-| Strings              | `#FFC857` |
-| Numbers              | `#E76F51` |
-| Variables            | `#FFD7A8` |
+| Types / Classes | `#F4A261` |
+| Strings | `#FFC857` |
+| Numbers | `#E76F51` |
+| Variables | `#FFD7A8` |
+
+---
+
+## UI Highlights
+
+| Element | Color |
+|---|---|
+| Activity Bar | `#0A192F` |
+| Active Tab | `#1C3A5E` |
+| Cursor | `#D9822B` |
+| Panel Border | `#4A78A8` |
 
 ---
 
 ## Installation
 
-### From VSIX
+### Install from VS Code Marketplace
 
-1. Download the `.vsix` file.
-2. Open **VS Code**
-3. Go to **Extensions**
-4. Click `...`
-5. Select **Install from VSIX**
-6. Choose the file
-
----
-
-### From Marketplace
-
-Search for:
+1. Open **Extensions** in VS Code
+2. Search for:
 
 ```
 Van Gogh Theme
 ```
 
-in the **VS Code Extensions Marketplace**.
+3. Click **Install**
+
+Or install directly:
+
+https://marketplace.visualstudio.com/items?itemName=kyawzinhtet.van-gogh
+
+---
+
+### Install from VSIX
+
+1. Download the `.vsix` file
+2. Open **VS Code**
+3. Go to **Extensions**
+4. Click the `...` menu
+5. Select **Install from VSIX**
+6. Choose the downloaded file
 
 ---
 
@@ -91,35 +113,40 @@ Preferences: Color Theme
 ```
 
 3. Select:
-
 ```
 Van Gogh Theme
 ```
 
 ---
 
-## Recommended Font
+## Recommended Fonts
 
 This theme works especially well with:
 
-* JetBrains Mono
-* Fira Code
-* Cascadia Code
+- JetBrains Mono
+- Fira Code
+- Cascadia Code
 
 Example settings:
 
 ```json
-"editor.fontFamily": "JetBrains Mono",
-"editor.fontLigatures": true
+{
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontLigatures": true
+}
 ```
-
----
 
 ## Contributing
 
-Issues and suggestions are welcome.
+### Issues, suggestions, and improvements are welcome.
 
-If you find any color inconsistencies or language-specific highlighting issues, feel free to open an issue.
+If you notice:
+
+- color inconsistencies
+- language-specific highlighting issues
+- UI readability problems
+
+Feel free to open an issue or submit a pull request.
 
 ---
 
@@ -132,3 +159,8 @@ MIT License
 ## Author
 
 Kyaw Zin Htet
+
+---
+
+## GitHub:
+https://github.com/kyawzinhtett
